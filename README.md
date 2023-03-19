@@ -13,7 +13,7 @@ This is a ROS package that implements a closed-loop controller for controlling a
 
     ```
     cd ~/catkin_ws/src
-    git clone https://github.com/<your-username>/closed_loop_pioneer.git
+    git clone https://github.com/AbdelrahmanAbdelgwad/pioneer-robot-navigation.git
     ```
 
 2. Build the package:
