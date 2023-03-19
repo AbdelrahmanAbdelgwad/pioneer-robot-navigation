@@ -1,0 +1,9 @@
+<launch>
+  <param name="k_rho" value="3.14"/>
+  <param name="k_alpha" value="5"/>
+  <param name="k_beta" value="-3"/>
+  
+  <node name="turtlesim" pkg="turtlesim" type="turtlesim_node" />
+  <node name="turtle_feedback" pkg="closed_loop_turtle" type="move_turtle_to_goal.py" />
+
+</launch>
