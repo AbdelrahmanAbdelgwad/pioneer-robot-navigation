@@ -44,3 +44,8 @@ This is a ROS package that implements a closed-loop controller for controlling a
     ```
     rostopic pub /pioneer/goal geometry_msgs/Pose2D "x: 1.0 y: 1.0 theta: 0.0"
     ```
+    
+## Demo
+
+To see a demo of the package in action, check out this [YouTube video](https://www.youtube.com/watch?v=qk6bnAc4sz4&ab_channel=AbdelrahmanAbdelgawad).
+
