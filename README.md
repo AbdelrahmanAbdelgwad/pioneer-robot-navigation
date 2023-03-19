@@ -44,7 +44,3 @@ This is a ROS package that implements a closed-loop controller for controlling a
     ```
     rostopic pub /pioneer/goal geometry_msgs/Pose2D "x: 1.0 y: 1.0 theta: 0.0"
     ```
-
-## License
-
-This package is licensed under the MIT License. See the `LICENSE` file for more details.
